@@ -39,3 +39,4 @@ Potential areas for expanding this analysis include:
 Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
+This project is open-source and available under the MIT License.
